@@ -1,0 +1,25 @@
+{
+  "name": "freegulpassembly",
+  "version": "1.0.0",
+  "description": "gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexeyTurdakov/FreeGulpAssembly.git"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "alexey turdakov <alexeyturdakov@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexeyTurdakov/FreeGulpAssembly/issues"
+  },
+  "homepage": "https://github.com/AlexeyTurdakov/FreeGulpAssembly#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
