@@ -1,0 +1,19 @@
+{
+  "name": "freegulpassembly",
+  "version": "1.0.0",
+  "description": "gulp",
+  "main": "gulpfile.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "alexey turdakov",
+  "license": "ISC",
+  "dependencies": {
+    "del": "^7.0.0",
+    "gulp": "^4.0.2"
+  }
+}
