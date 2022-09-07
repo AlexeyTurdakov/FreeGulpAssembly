@@ -20,6 +20,12 @@
   },
   "homepage": "https://github.com/AlexeyTurdakov/FreeGulpAssembly#readme",
   "devDependencies": {
-    "gulp": "^4.0.2"
+    "browser-sync": "^2.27.10",
+    "gulp": "^4.0.2",
+    "gulp-file-include": "^2.3.0",
+    "gulp-size": "^4.0.1"
+  },
+  "dependencies": {
+    "gulp-htmlmin": "^5.0.1"
   }
 }
